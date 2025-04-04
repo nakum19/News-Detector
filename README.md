@@ -11,7 +11,7 @@ Make sure you have the following installed:
 - `pip`
 - Virtual environment support (optional but recommended)
 
-### 🔧 1. Clone the repository
+🔧 1. Clone the repository
 
 ```bash
 git clone https://github.com/your-username/Fake_News_Detector.git
@@ -54,7 +54,15 @@ python model_training.py
 python model_evaluation.py
 ```
 
+## Download Required Files
 
+These files are too large for GitHub and need to be downloaded manually.
+
+cleaned_news.csv : https://drive.google.com/file/d/1TMmMk4qF1E2_MyZuhm_H3jMDw_n3NC2o/view?usp=sharing
+
+preprocessed_news.csv: https://drive.google.com/file/d/19x21FKSw7gd0Hwwfcsspr48JTAmYR9j8/view?usp=sharing
+
+After downloading, place these files in your project directory before running the app.
 
 💡 Project Goal
 
